@@ -47,7 +47,7 @@ Certifique-se de ter o Python instalado em sua máquina e execute a sequência d
 git clone https://github.com/gabrielareis-dev/Sistema-ORG-Financeira.git
 
 # 2. Acesse a pasta do projeto
-cd Corporate-ORGF
+cd Sistema-ORGF
 
 # 3. Crie o ambiente virtual (.venv)
 python -m venv .venv
